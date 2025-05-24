@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>List</title>
+</head>
+<body>
+    <h2>{{ title }}</h2>
+<a href="/people/create/">Add New</a>
+<table border="1">
+    <tr>
+        <th>Name</th>
+        <th>Age</th>
+        <th>City</th>
+        <th>Actions</th>
+    </tr>
+    {% for p in people %}
+    <tr>
+        <td>{{ p.name }}</td><td>{{ p.age }}</td><td>{{ p.city }}</td>
+        <td>
+            <a href="/people/update/{{ p.id }}">Edit</a> |
+            <a href="/people/delete/{{ p.id }}">Delete</a>
+        </td>
+    </tr>
+    {% endfor %}
+</table>
+
+</body>
+</html>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9c32ed90-b9e5-49c7-9142-1704fec0dda7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Project01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/people/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/people/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/people/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/people/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/people/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/people/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/people/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/people/templates/people/form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/people/templates/people/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/people/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/people/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/people/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "shravan1515"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/shravan1515/Django-Rest-API.git",
+    "accountId": "25ca680f-7cb3-4617-89f8-bdb7f5a680b0"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2xWvGiJSvz2FL6EJ8DVZLKLnuHM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5b207ade9991-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17890.14" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c32ed90-b9e5-49c7-9142-1704fec0dda7" name="Changes" comment="" />
+      <created>1748066550707</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1748066550707</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
